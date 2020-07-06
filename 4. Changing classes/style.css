@@ -1,0 +1,10 @@
+.red-giant-text {
+  color: red;
+  font-size: 60px;
+  font-family: sans-serif;
+}
+
+.on {
+  color: blue;
+  background-color: yellow;
+}
